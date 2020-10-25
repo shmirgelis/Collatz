@@ -1,0 +1,13 @@
+C:\Users\mbm6415\source\repos\Collatz\Collatz\bin\Debug\netcoreapp3.1\Collatz.exe
+C:\Users\mbm6415\source\repos\Collatz\Collatz\bin\Debug\netcoreapp3.1\Collatz.deps.json
+C:\Users\mbm6415\source\repos\Collatz\Collatz\bin\Debug\netcoreapp3.1\Collatz.runtimeconfig.json
+C:\Users\mbm6415\source\repos\Collatz\Collatz\bin\Debug\netcoreapp3.1\Collatz.runtimeconfig.dev.json
+C:\Users\mbm6415\source\repos\Collatz\Collatz\bin\Debug\netcoreapp3.1\Collatz.dll
+C:\Users\mbm6415\source\repos\Collatz\Collatz\bin\Debug\netcoreapp3.1\Collatz.pdb
+C:\Users\mbm6415\source\repos\Collatz\Collatz\obj\Debug\netcoreapp3.1\Collatz.csprojAssemblyReference.cache
+C:\Users\mbm6415\source\repos\Collatz\Collatz\obj\Debug\netcoreapp3.1\Collatz.AssemblyInfoInputs.cache
+C:\Users\mbm6415\source\repos\Collatz\Collatz\obj\Debug\netcoreapp3.1\Collatz.AssemblyInfo.cs
+C:\Users\mbm6415\source\repos\Collatz\Collatz\obj\Debug\netcoreapp3.1\Collatz.csproj.CoreCompileInputs.cache
+C:\Users\mbm6415\source\repos\Collatz\Collatz\obj\Debug\netcoreapp3.1\Collatz.dll
+C:\Users\mbm6415\source\repos\Collatz\Collatz\obj\Debug\netcoreapp3.1\Collatz.pdb
+C:\Users\mbm6415\source\repos\Collatz\Collatz\obj\Debug\netcoreapp3.1\Collatz.genruntimeconfig.cache
